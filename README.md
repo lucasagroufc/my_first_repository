@@ -1,2 +1,2 @@
 # my_first_repository
- Dr. Patrignani
+ Clone of Dr. Patrignani repository ("pynotes")
